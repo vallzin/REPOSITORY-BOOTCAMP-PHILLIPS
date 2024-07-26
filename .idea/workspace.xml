@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e16b69b0-20f9-4cb1-baba-53085a59f2b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/.idea/ANGULAR.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/src/app/app.config.server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/src/app/app.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/src/main.server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/course-manager/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/src/app/app.module.server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/src/main.server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANGULAR/spaangular/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOOTSTRAP-AULA/DIO-Boostrap-aula" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJETO-CONTA-BANCO/ContaBanco/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJETO-CONTA-BANCO/ContaBanco/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJETO-CONTA-BANCO/ContaBanco/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJETO-CONTA-BANCO/ContaBanco/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJETO-CONTA-BANCO/ContaBanco/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJETO-CONTA-BANCO/ContaBanco/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJETO-CONTA-BANCO/ContaBanco/ContaBanco.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJETO-CONTA-BANCO/ContaBanco/src/ContaTerminal.java" beforeDir="false" afterPath="$PROJECT_DIR$/PROJETO-CONTA-BANCO/ContaBanco/src/ContaTerminal.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2jhoZRHkeeiBpgYk9meaZjshcWY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/DIO-BOOTCAMP-PHILLIPS"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e16b69b0-20f9-4cb1-baba-53085a59f2b9" name="Changes" comment="" />
+      <created>1721848724562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721848724562</updated>
+    </task>
+    <servers />
+  </component>
+</project>
