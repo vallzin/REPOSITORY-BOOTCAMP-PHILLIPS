@@ -31,5 +31,7 @@ export class CourseListComponent implements OnInit {
     return this._filterBy;
   }
 
+
+
 }
 
